@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f72e7d4-1d97-4bdd-ae6a-b2136699647a" name="Default" comment="" />
+    <list default="true" id="5f72e7d4-1d97-4bdd-ae6a-b2136699647a" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/opensmile_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/opensmile_main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,46 +114,35 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="821602348">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="2" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/opensmile_main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="153">
+              <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/config/emobase_live4_100ms.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="346" column="19" selection-start-line="346" selection-start-column="19" selection-end-line="346" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch2.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="74" selection-start-line="74" selection-end-line="74" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/split_silence.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-              <folding>
-                <element signature="e#0#29#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -172,6 +163,9 @@
       <find>sampleRate</find>
       <find>cFramer</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -197,18 +191,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="opensmile_xsh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opensmile_xsh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="opensmile_xsh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opensmile_xsh" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="opensmile_xsh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="opensmile_xsh" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
+              <item name="opensmile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="opensmile" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -324,53 +308,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/emobase_live4_single.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6448" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config/emobase_live4_single.conf" />
     <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch_single.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-6388" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch3.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6938" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/results/#aftermath_in_hospital.arff">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-20580" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/opensmile_main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/split_silence.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/emobase_live4_100ms.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="346" column="19" selection-start-line="346" selection-start-column="19" selection-end-line="346" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch3.conf" />
+    <entry file="file://$PROJECT_DIR$/results/#aftermath_in_hospital.arff" />
+    <entry file="file://$PROJECT_DIR$/split_silence.py" />
+    <entry file="file://$PROJECT_DIR$/config/emobase_live4_100ms.conf" />
     <entry file="file://$PROJECT_DIR$/config/emobase_live4.conf">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
@@ -385,19 +332,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../opensmile_xsh_original_Hz/opensmile_main.py">
+    <entry file="file://$PROJECT_DIR$/../opensmile_xsh_original_Hz/opensmile_main.py" />
+    <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch2.conf" />
+    <entry file="file://$PROJECT_DIR$/opensmile_main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
+        <state relative-caret-position="153">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/emobase_live4_batch2.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="74" selection-start-line="74" selection-end-line="74" />
         </state>
       </provider>
     </entry>

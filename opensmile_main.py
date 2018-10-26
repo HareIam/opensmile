@@ -1,9 +1,5 @@
 import glob
 import os
-import wave
-
-from split_silence import split_on_silence_with_pydub
-
 
 # Function for converting arff list to csv list
 def ArfftoCsv(content):
@@ -36,7 +32,7 @@ for filename in glob.glob(os.path.join(input_path, '*.wav')):
 
     arff_files_filename = output_path+os.path.splitext(os.path.basename(filename))[0] + ".arff"
 
-    os.system('@SMILExtract_Release -C config/emobase_live4_batch3'
+    os.system('@SMILExtract_Release -C config/emobase_live4_batch'
               '.conf -I '+filename+' -O '+ arff_files_filename)
 
     # Getting all the arff files from the current directory
